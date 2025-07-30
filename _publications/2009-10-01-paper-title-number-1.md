@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: [publication/2009-10-01-paper-title-number-1]
 date: 2009-10-01
-venue: 'Journal 1'
+venue: 'Neurophyscopharmacology'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://www.sciencedirect.com/science/article/pii/S0028390825001650#:~:text=Together%20these%20findings%20suggest%20that,progression%20of%20cocaine%20use%20disorder.)'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
