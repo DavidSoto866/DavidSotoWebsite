@@ -2,7 +2,7 @@
 title: "Sex-dependent role of the dorsolateral septum in shaping contextual cocaine memory strength"
 collection: publications
 category: manuscripts
-permalink: http://academicpages.github.io/files/paper1.pdf
+permalink: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib
 date: 2009-10-01
 venue: 'Neurophyscopharmacology'
